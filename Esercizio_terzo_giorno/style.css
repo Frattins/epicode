@@ -1,0 +1,48 @@
+#container {
+    width: 50%;
+    margin:0 auto ;
+}
+
+/********** Header **********/
+header { 
+    text-align: center;
+    padding: 1em;
+    margin: 1px;
+}
+header img {height: 50px;}
+
+header div {
+            background-color:#FDFBF1;
+            padding: 1px;
+            border-top:solid 1px #FFDC85;
+            vertical-align: middle;
+            text-align:center;
+        }
+
+/************* Main ***********/
+#titolo {
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+}
+
+.image{
+    color: grey;
+    text-align: center;
+}
+.featured {
+    margin-bottom: 0;
+    color: red
+}
+.Featured_in {
+    border-left: solid 1px orange ;
+    padding-left: 10px;
+}
+/******* Ingredienti *******/
+#Ingredients {
+    border-bottom: solid 1px grey;
+}
+
+/****** Metodo *******/
+#Method {
+    border-bottom: solid 1px grey;
+}
